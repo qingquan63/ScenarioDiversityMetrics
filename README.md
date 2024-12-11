@@ -1,3 +1,3 @@
 # Toolbox-of-Content-Diversity-Metrics
 
-开发一个可以应用于内容多样性评估的工具箱，其可以适应不同需求下的内容多样性评估，促进生成更加多样化的内容。为教育与研究提供一个良好的开源工具箱。
+This is a toolbox that can be applied to content diversity assessment, which can adapt to content diversity assessment under different needs and promote the generation of more diverse content. Provide a good open source toolbox for education and research.
